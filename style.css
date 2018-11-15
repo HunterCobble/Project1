@@ -1,6 +1,6 @@
 /*custom tomato red background*/
 .red {
-    background-color: rgba(255, 69, 10, 0.72);
+    background-color: rgba(10, 157, 255, 0.72);
   }
   
   /* enlarge size of text and change color*/
@@ -14,18 +14,13 @@
     font-size: 2rem;
   }
   
-  /* set jumbotron's background image to Life Aquatic pic*/
-  .jumbotron {
-    background-image: url('http://www.tvovermind.com/wp-content/uploads/2016/09/Bill-Murray.jpg');
-    background-size: cover;
-  }
-  
+ 
   /*custom tomato red text color*/
   .textRed {
-    color: rgba(61, 201, 18, 0.72);
+    color: rgba(10, 226, 255, 0.72);
   }
   
   /* blurred text shadow around jumbotron text*/
   .guesswho {
-      text-shadow: 2px 2px 8px #ff0000;
+      text-shadow: 2px 2px 8px #F8F3F3;
   }

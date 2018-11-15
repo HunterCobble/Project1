@@ -14,7 +14,7 @@ var error_name = false;
 // run function to make sure there is text in name field when clicking out
 $("#name").focusout(function()
 {
-  // alert("Tell Bill your name.");
+  // alert("Tell Dennis your name.");
   check_name();
 });
 
